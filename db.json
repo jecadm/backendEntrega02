@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Asado",
+    "description": "Descripcion: con cuero ancho",
+    "price": 200,
+    "thumbnail": "https://elasado.ar/product1.jpg",
+    "code": "Pas02",
+    "stock": 24
+  },
+  {
+    "id": 2,
+    "title": "Chuchulin",
+    "description": "Descripcion:  con mucha grasa",
+    "price": 500,
+    "thumbnail": "https://elasado.ar/product2.jpg",
+    "code": "chin2",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "title": "ChuchulinPremium",
+    "description": "Descripcion:  con mucha mas grasa",
+    "price": 5500,
+    "thumbnail": "https://elasado.ar/product2.jpg",
+    "code": "chin6",
+    "stock": 52
+  }
+]
